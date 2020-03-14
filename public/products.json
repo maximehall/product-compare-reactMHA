@@ -1,12 +1,13 @@
 {
   "products": [{
       "id": "1",
-      "name": "Cherry",
+      "name": "Mia & Max",
       "image": "images/Cherry.png",
       "price": "$1.99",
       "colors": ["red", "green", "blue"],
       "condition": "Fresh",
-      "description": "Two Cherries"
+      "description": "Two Cherries",
+      "comment" : "This is another comment"
     },
     {
       "id": "2",
@@ -14,17 +15,19 @@
       "image": "images/Orange.png",
       "price": "$2.99",
       "colors": ["green", "blue"],
-      "condition": "Frozen",
-      "description": "Giant Orange"
+      "condition": "Fresh",
+      "description": "Giant Oranges",
+      "comment" : "This is another comment"
     },
     {
       "id": "3",
       "name": "Nuts",
       "image": "images/Nuts.png",
-      "price": "$1.00",
+      "price": "$1,000,000",
       "colors": ["red"],
       "condition": "Frozen",
-      "description": "Mixed Nuts"
+      "description": "Mixed Nuts",
+      "comment" : "This is another comment"
     },
     {
       "id": "4",
@@ -33,7 +36,38 @@
       "price": "$1.49",
       "colors": ["blue"],
       "condition": "Fresh",
-      "description": "Just Strawberry"
+      "description": "Just Strawberry",
+      "comment" : "This is another comment"
+    },
+    {
+      "id": "5",
+      "name": "Strawberry",
+      "image": "images/Strawberry.png",
+      "price": "$1.49",
+      "colors": ["blue"],
+      "condition": "Fresh",
+      "description": "Just Strawberry",
+      "comment" : "This is another comment"
+    },
+    {
+      "id": "6",
+      "name": "Strawberry",
+      "image": "images/Strawberry.png",
+      "price": "$1.49",
+      "colors": ["blue"],
+      "condition": "Frozen",
+      "description": "Just Strawberry",
+      "comment" : "This is another comment"
+    },
+    {
+      "id": "7",
+      "name": "Strawberry",
+      "image": "images/Strawberry.png",
+      "price": "$1.49",
+      "colors": ["orange"],
+      "condition": "Fresh",
+      "description": "Just Strawberry",
+      "comment" : "This is another comment"
     }
   ]
 }

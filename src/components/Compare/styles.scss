@@ -21,6 +21,10 @@
     .bg-blue {
       background-color: $blue;
     }
+    
+    .bg-orange {
+      background-color: $orange;
+    }
 
     tr > td,
     tr > th {
@@ -64,6 +68,6 @@
   }
 
   .thead-default th {
-    background-color: #fff;
+    background-color: rgb(246, 255, 113);
   }
 }
